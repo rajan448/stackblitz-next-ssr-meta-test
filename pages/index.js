@@ -11,7 +11,7 @@ export default function Home() {
 
         <meta
           name="og:image"
-          content="https://fastly.picsum.photos/id/388/256/256.jpg?hmac=wEVx8GX1LbHpkxQF7fr83eitFEBTr5H4H-NdY75C6lQ"
+          content="https://assets.airtel.in/static-assets/safo/dth/images/jpg/img_stb_2.jpg"
         ></meta>
       </Head>
 
